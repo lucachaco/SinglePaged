@@ -21,8 +21,16 @@
 <body>
 <div id="main">
 
+
     <nav>
+
+
         <ul>
+            <li>
+                <a href="#intro">
+                    <img src="/img/logo-white-small.png" alt="FacturaCohete" style="margin-right: 40px">
+                </a>
+            </li>
             {% for node in site.posts reversed %}
             {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
             <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
