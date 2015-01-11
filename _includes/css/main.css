@@ -315,11 +315,15 @@ nav ul li:hover, nav ul li.active {
     min-width:60px;
     line-height:40px;
   }
+    .rocket-logo{
+        display: none;
+    }
 }
 
 /* tiny size (phones) */
 @media only screen and (max-width: 380px) {
   nav ul li { min-width:90px; line-height:20px; }
+
 }
 
 /* anything not desktop */
