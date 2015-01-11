@@ -17,7 +17,7 @@ highlighter: pygments
 ### content configuration ###
 title:       "FacturaCohete - Sistema facturación en la nube de Costa Rica"
 keywords:    ""
-description: "Facturas, gastos y reportes."
+description: "Factura electrónica Costa Rica"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
