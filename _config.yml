@@ -16,7 +16,7 @@ highlighter: pygments
 
 ### content configuration ###
 title:       "FacturaCohete - Sistema facturación en la nube de Costa Rica"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
+keywords:    ""
 description: "Facturas, gastos y reportes."
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
